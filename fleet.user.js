@@ -19,8 +19,8 @@
 // @connect      cdn.jsdelivr.net
 // @connect      openrouter.ai
 // @run-at       document-start
-// @downloadURL  https://raw.githubusercontent.com/Fleet-AI-Operations/fleet-ux-improvements/main/fleet.user.js
-// @updateURL    https://raw.githubusercontent.com/Fleet-AI-Operations/fleet-ux-improvements/main/fleet.user.js
+// @downloadURL  https://raw.githubusercontent.com/mag1775/fleet-ux-improvements/test-update/fleet.user.js
+// @updateURL    https://raw.githubusercontent.com/mag1775/fleet-ux-improvements/test-update/fleet.user.js
 // ==/UserScript==
 
 (function() {
@@ -94,9 +94,9 @@
     const NOVNC_SYNTHETIC_PATH = '_novnc';
     
     const GITHUB_CONFIG = {
-        owner: 'Fleet-AI-Operations',
+        owner: 'mag1775',
         repo: 'fleet-ux-improvements',
-        branch: 'main',
+        branch: 'test-update',
         pluginsPath: 'plugins',
         corePath: 'core',
         devPath: 'dev',
